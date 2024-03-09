@@ -52,7 +52,7 @@
             </tr>
             <tr>
 <td align="center">08</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=sD468LfeVdc">Data Science Job Interview – Full Mock Interview</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=sD468LfeVdc">Data Science Job Interview – Full Mock Interview</a></td>
 <td align="center">2</td>
             </tr>
     </tbody>

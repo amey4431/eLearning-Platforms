@@ -37,17 +37,17 @@
             </tr>
             <tr>
 <td align="center">05</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=vzGllw18DkA">Harvard CS50’s Web Programming with Python and JavaScript – Full University Course</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=vzGllw18DkA">Harvard CS50’s Web Programming with Python and JavaScript – Full University Course</a></td>
 <td align="center">15</td>
             </tr>
             <tr>
 <td align="center">06</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=UFD4SP91tSM">Firebase Tutorial for Beginners – Build a Mobile App with HTML, CSS, JavaScript</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=UFD4SP91tSM">Firebase Tutorial for Beginners – Build a Mobile App with HTML, CSS, JavaScript</a></td>
 <td align="center">2</td>
             </tr>
             <tr>
 <td align="center">07</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=tbqVqP5ilzQ">JavaScript Interview Prep: Functions, Closures, Currying</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=tbqVqP5ilzQ">JavaScript Interview Prep: Functions, Closures, Currying</a></td>
 <td align="center">2</td>
             </tr>
             <tr>
@@ -77,32 +77,32 @@
             </tr>
             <tr>
 <td align="center">13</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=eTB0UCDnMQo">Bun Tutorial – JavaScript Runtime (Node.js Alternative) [Full Course]</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=eTB0UCDnMQo">Bun Tutorial – JavaScript Runtime (Node.js Alternative) [Full Course]</a></td>
 <td align="center">1</td>
             </tr>
             <tr>
 <td align="center">14</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=HSZ_uaif57o">Learn LangChain.js - Build LLM apps with JavaScript and OpenAI</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=HSZ_uaif57o">Learn LangChain.js - Build LLM apps with JavaScript and OpenAI</a></td>
 <td align="center">2</td>
             </tr>
             <tr>
 <td align="center">15</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=uyhzCBEGaBY">Beginner JavaScript Project – Snake Game Tutorial</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=uyhzCBEGaBY">Beginner JavaScript Project – Snake Game Tutorial</a></td>
 <td align="center">2</td>
             </tr>
             <tr>
 <td align="center">16</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=IPiUDhwnZxA">JavaScript Testing with Jest – Crash Course</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=IPiUDhwnZxA">JavaScript Testing with Jest – Crash Course</a></td>
 <td align="center">1</td>
             </tr>
             <tr>
 <td align="center">17</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=5iHejdqYIa8">Build a Virtual World Filled with Self-Driving Cars – JavaScript Tutorial</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=5iHejdqYIa8">Build a Virtual World Filled with Self-Driving Cars – JavaScript Tutorial</a></td>
 <td align="center">6</td>
             </tr>
             <tr>
 <td align="center">18</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=n8mNX2YqkUs">Learn JavaScript Interactively in NEW freeCodeCamp.org Curriculum</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=n8mNX2YqkUs">Learn JavaScript Interactively in NEW freeCodeCamp.org Curriculum</a></td>
 <td align="center">1</td>
             </tr>
             <tr>
@@ -112,7 +112,7 @@
             </tr>
             <tr>
 <td align="center">20</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=ypNKKYUJE5o">JavaScript Security Vulnerabilities Tutorial – With Code Examples</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=ypNKKYUJE5o">JavaScript Security Vulnerabilities Tutorial – With Code Examples</a></td>
 <td align="center">1</td>
             </tr>
             <tr>
@@ -127,67 +127,67 @@
             </tr>
             <tr>
 <td align="center">23</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=j1laALb8OVM">JavaScript Functions Crash Course</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=j1laALb8OVM">JavaScript Functions Crash Course</a></td>
 <td align="center">2</td>
             </tr>
             <tr>
 <td align="center">24</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=vYEkEMfoi1c">JavaScript Tutorial – Code Your Own Jeopardy Game</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=vYEkEMfoi1c">JavaScript Tutorial – Code Your Own Jeopardy Game</a></td>
 <td align="center">2</td>
             </tr>
             <tr>
 <td align="center">25</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=5fb2aPlgoys">JavaScript DOM Manipulation – Full Course for Beginners</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=5fb2aPlgoys">JavaScript DOM Manipulation – Full Course for Beginners</a></td>
 <td align="center">3</td>
             </tr>
             <tr>
 <td align="center">26</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=GFO_txvwK_c">JavaScript Game Development Course for Beginners</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=GFO_txvwK_c">JavaScript Game Development Course for Beginners</a></td>
 <td align="center">10</td>
             </tr>
             <tr>
 <td align="center">27</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=u6gSSpfsoOQ">React JavaScript Framework for Beginners – Project-Based Course</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=u6gSSpfsoOQ">React JavaScript Framework for Beginners – Project-Based Course</a></td>
 <td align="center">9</td>
             </tr>
             <tr>
 <td align="center">28</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=KeBxopnhizw">JavaScript Modules Crash Course</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=KeBxopnhizw">JavaScript Modules Crash Course</a></td>
 <td align="center">1</td>
             </tr>
             <tr>
 <td align="center">29</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=7BHs1BzA4fs">Code a 2D Game Using JavaScript, HTML, and CSS (w/ Free Game Assets) – Tutorial</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=7BHs1BzA4fs">Code a 2D Game Using JavaScript, HTML, and CSS (w/ Free Game Assets) – Tutorial</a></td>
 <td align="center">3</td>
             </tr>
             <tr>
 <td align="center">30</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=_uSrE-gIdFc">3 ways to build a Flight Widget! (JavaScript + Node.js + REST API + Database)</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=_uSrE-gIdFc">3 ways to build a Flight Widget! (JavaScript + Node.js + REST API + Database)</a></td>
 <td align="center">3</td>
             </tr>
             <tr>
 <td align="center">31</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=nu_pCVPKzTk">Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=nu_pCVPKzTk">Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)</a></td>
 <td align="center">8</td>
             </tr>
             <tr>
 <td align="center">32</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=-bEzt5ISACA">React State Management – Intermediate JavaScript Course</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=-bEzt5ISACA">React State Management – Intermediate JavaScript Course</a></td>
 <td align="center">3</td>
             </tr>
             <tr>
 <td align="center">33</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=Bj6lC93JMi0">JavaScript Tutorial - Create a Card Game 🃏</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=Bj6lC93JMi0">JavaScript Tutorial - Create a Card Game 🃏</a></td>
 <td align="center">2</td>
             </tr>
             <tr>
 <td align="center">34</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=2JYT5f2isg4">Full HTTP Networking Course – Fetch and REST APIs in JavaScript</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=2JYT5f2isg4">Full HTTP Networking Course – Fetch and REST APIs in JavaScript</a></td>
 <td align="center">5</td>
             </tr>
             <tr>
 <td align="center">35</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=U34l-Xz5ynU">JavaScript GameDev Tutorial – Code an Animated Physics Game [Full Course]</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=U34l-Xz5ynU">JavaScript GameDev Tutorial – Code an Animated Physics Game [Full Course]</a></td>
 <td align="center">3</td>
             </tr>
     </tbody>
@@ -459,17 +459,17 @@
             </tr>
             <tr>
 <td align="center">06</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=qpOZup_3P_A">Code a Minecraft Clone with JavaScript, React, Three.js – Tutorial</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=qpOZup_3P_A">Code a Minecraft Clone with JavaScript, React, Three.js – Tutorial</a></td>
 <td align="center">2</td>
             </tr>
             <tr>
 <td align="center">07</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=krfUjg0S2uI">Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=krfUjg0S2uI">Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners</a></td>
 <td align="center">8</td>
             </tr>
             <tr>
 <td align="center">08</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=qkQr42DmaEE">3 Ways to Code a BuzzFeed Clone (JavaScript + TypeScript + JSONServer + Database + API + Node.js)</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=qkQr42DmaEE">3 Ways to Code a BuzzFeed Clone (JavaScript + TypeScript + JSONServer + Database + API + Node.js)</a></td>
 <td align="center">4</td>
             </tr>
             <tr>

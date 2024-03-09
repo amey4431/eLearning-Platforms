@@ -17,7 +17,7 @@
     <tbody>
             <tr>
 <td align="center">01</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=zJSY8tbf_ys">Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=zJSY8tbf_ys">Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS)</a></td>
 <td align="center">22</td>
             </tr>
             <tr>
@@ -27,7 +27,7 @@
             </tr>
             <tr>
 <td align="center">03</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=MsnQ5uepIaE">Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=MsnQ5uepIaE">Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)</a></td>
 <td align="center">10</td>
             </tr>
             <tr>
@@ -97,22 +97,22 @@
             </tr>
             <tr>
 <td align="center">17</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=u6gSSpfsoOQ">React JavaScript Framework for Beginners – Project-Based Course</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=u6gSSpfsoOQ">React JavaScript Framework for Beginners – Project-Based Course</a></td>
 <td align="center">9</td>
             </tr>
             <tr>
 <td align="center">18</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=qpOZup_3P_A">Code a Minecraft Clone with JavaScript, React, Three.js – Tutorial</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=qpOZup_3P_A">Code a Minecraft Clone with JavaScript, React, Three.js – Tutorial</a></td>
 <td align="center">2</td>
             </tr>
             <tr>
 <td align="center">19</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=-bEzt5ISACA">React State Management – Intermediate JavaScript Course</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=-bEzt5ISACA">React State Management – Intermediate JavaScript Course</a></td>
 <td align="center">3</td>
             </tr>
             <tr>
 <td align="center">20</td>
-<td align="left"><a href="https://www.youtube.com/watch?v=MsnQ5uepIaE">Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)</a></td>
+<td align="left"><a href="https://youtube.com/watch?v=MsnQ5uepIaE">Frontend Web Development: In-Depth Project Tutorial (HTML, CSS, JavaScript, TypeScript, React)</a></td>
 <td align="center">10</td>
             </tr>
             <tr>
